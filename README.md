@@ -19,4 +19,5 @@ cd Mac_Changer
 sudo bash Mac_changer
 
 Two Enter For Run Tools
+.............
 
