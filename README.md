@@ -8,7 +8,11 @@ MAC address of the device that was attached to it at the time of activation.
 
 *Linux.......
 
-git clone https://github.com/Sahi-bit/Mac_Changer.git
+git clone https://github.com/Micro-sys/Mac_Changer.git
+
+cd Mac_Changer
 
 sudo bash Mac_changer
+
+Two Enter For Run Tools
 
