@@ -72,10 +72,10 @@ read x
 if [ "$x" == "$lenovo" ]; then                    #lenovo
 
 ifconfig wlan0 down
-ifconfig wlan0 hw ether 18:03:73:E9:FB:86
+ifconfig wlan0 hw ether 15:03:73:E9:FB:86
 ifconfig wlan0 up
 ifconfig eth0 down
-ifconfig eth0 hw ether 18:03:73:E9:FB:86
+ifconfig eth0 hw ether 15:03:73:E9:FB:86
 ifconfig eth0 up
 systemctl restart NetworkManager.service
 
@@ -83,10 +83,10 @@ systemctl restart NetworkManager.service
 elif [ "$x" == "$hp" ]; then                    #hp
 
 ifconfig wlan0 down
-ifconfig wlan0 hw ether 00:1F:5B:C7:EE:2F
+ifconfig wlan0 hw ether 00:2F:5B:C7:EE:2F
 ifconfig wlan0 up
 ifconfig eth0 down
-ifconfig eth0 hw ether 00:1F:5B:C7:EE:2F
+ifconfig eth0 hw ether 00:2F:5B:C7:EE:2F
 ifconfig eth0 up
 systemctl restart NetworkManager.service
 
@@ -349,7 +349,7 @@ echo -e '\e[1;33m
  \____/_/ /_/\__,_/_/ /_/\__, /\___/_/  v1.  
                         /____/         (Linux)   
  \e[1;32m
- https://github.com/sahi-bit
+ https://github.com/Micro-sys/Mac_Changer
  \e[1;37m
  sahinm808@gmail.com
               Press ENTER to Main Menu
