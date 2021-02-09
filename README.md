@@ -2,6 +2,8 @@
 
 This would be helpful if your modem is configured to only provide internet access
 
+MAC address of the device that was attached to it at the time of activation.
+
 # How to use?
 
 *Linux.......
