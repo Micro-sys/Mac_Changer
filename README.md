@@ -4,6 +4,10 @@ This would be helpful if your modem is configured to only provide internet acces
 
 MAC address of the device that was attached to it at the time of activation.
 
+# Desclaimer
+
+Mac_Changer Only Educational Purposes.
+
 # How to use?
 
 *Linux.......
