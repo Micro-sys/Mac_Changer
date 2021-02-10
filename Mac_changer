@@ -67,9 +67,6 @@ custommac='21'
 me='22'
 exit='23'
 
-echo -e '
-Enter Number
-'
 
 read x
 
