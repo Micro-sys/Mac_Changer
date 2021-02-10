@@ -34,8 +34,8 @@ wlan0=$(ip link show wlan0 | awk '/ether/ {print $2}')
 
 1. Lenovo Laptops       11. Samsung Laptops  
 2. Hp Laptops           12. Nokia Laptops           
-3. Asus Laptops		13. Vaio Laptops               
-4. Msi Laptops      	14. Micromax Laptops
+3. Asus Laptops         13. Vaio Laptops               
+4. Msi Laptops          14. Micromax Laptops
 5. Apple Laptops        15. HCL Laptops           
 6. Acer Laptops         16. Wipro Laptops	21. Castom Mac Address
 7. Dell Laptops         17. LG Laptops		22. MY ACCOUNTS - CONTACT WITH ME
