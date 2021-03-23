@@ -16,6 +16,8 @@ git clone https://github.com/Micro-sys/Mac_Changer.git
 
 cd Mac_Changer
 
+chmod +x Mac_changer
+
 sudo bash Mac_changer
 
 Two Enter For Run Tools
