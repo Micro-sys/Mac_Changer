@@ -23,3 +23,4 @@ sudo bash Mac_changer
 Two Enter For Run Tools
 .............
 
+then ok
